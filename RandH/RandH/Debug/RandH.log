@@ -1,0 +1,19 @@
+﻿  Address.cpp
+  Buyer.cpp
+c:\users\chen\desktop\chen\secondy\סמסטר א\תכנות מכוון עצמים\פרויקט\randh\randh\buyer.cpp(145): warning C4018: '<': signed/unsigned mismatch
+  BuyerSeller.cpp
+  CreditCard.cpp
+  Date.cpp
+  Feedback.cpp
+  main.cpp
+c:\users\chen\desktop\chen\secondy\סמסטר א\תכנות מכוון עצמים\פרויקט\randh\randh\main.cpp(827): warning C4018: '<': signed/unsigned mismatch
+  Order.cpp
+  Payment.cpp
+  Product.cpp
+  RandH.cpp
+c:\users\chen\desktop\chen\secondy\סמסטר א\תכנות מכוון עצמים\פרויקט\randh\randh\randh.cpp(7): warning C4018: '<': signed/unsigned mismatch
+c:\users\chen\desktop\chen\secondy\סמסטר א\תכנות מכוון עצמים\פרויקט\randh\randh\randh.cpp(13): warning C4018: '<': signed/unsigned mismatch
+  Seller.cpp
+  User.cpp
+  Generating Code...
+  RandH.vcxproj -> C:\Users\Chen\Desktop\Chen\secondY\סמסטר א\תכנות מכוון עצמים\פרויקט\RandH\Debug\RandH.exe
